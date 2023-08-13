@@ -1,0 +1,73 @@
+.body25{
+  margin-top: 10px;
+}
+
+.body2 h2{
+  font-size: 4dvb;
+}
+
+
+.body2{
+ padding: 20px;
+ background-color: whitesmoke;
+}
+
+#learners-achieving{
+  margin-right: 10px;
+  padding: 20px;
+  display:inline-block;
+  width: 300px;
+  height: fit-content;
+  vertical-align: top;
+  background-color: white;
+  border: solid;
+  border-width: 0.5px;
+  border-color: rgb(207, 207, 207);
+  
+}
+
+.body2 .doublequote{
+  font-size: 8dvb;
+  margin-top: 0;
+  margin-bottom: 0;
+  display: inline-block;
+}
+
+.body2 #learners-achieving .experience{
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.initials{
+  font-weight: bold;
+  margin: 2px;
+  padding: 8px;
+  border: none;
+  display: inline-block;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}
+
+.student-name{
+  display:inline-block;
+  font-weight: bold;
+}
+
+.below-hr{
+  color: rgb(45, 0, 207);
+  font-weight: bolder;
+  margin:  5% 0;
+  display: flex;
+  align-items:  center;
+}
+
+.play-button{
+  margin-right: 10px; 
+  color: white;
+  background-color: rgb(45, 0, 207);
+  width: 30px;
+  padding: 3px 0px 3px 8px;
+  border-radius: 15px;
+}
+

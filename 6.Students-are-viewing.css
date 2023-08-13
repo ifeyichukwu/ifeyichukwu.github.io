@@ -1,0 +1,105 @@
+.Students-are-viewing6{
+  margin: 20px;
+}
+
+
+.several-lessons{
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+
+
+#python-lessons{
+  margin-right: 30px;
+  width: 250px;
+
+}
+
+#python-lessons img{
+  height: 50px;
+  
+}
+
+.div-img{
+  border: solid;
+  background-color: black;
+  border-color: grey;
+  height: 120px;
+}
+
+#python-lessons h4{
+  margin-bottom: 7px;
+ }
+
+ .teacher{
+  color: rgb(78, 78, 78);
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: small;
+ }
+
+ .rating {
+  color: rgb(231, 159, 4);
+  margin-top: 0;
+  margin-bottom: 7px;
+ }
+
+ .number-b4-stars{
+  font-weight: 700;
+  color: rgb(196, 88, 0);
+
+ }
+
+ .price{
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 15px;
+}
+
+
+.bestseller{
+  cursor: pointer;
+  color: rgb(34, 34, 34);
+  font-weight: 600;
+  background-color: rgb(236, 236, 158);
+  border: none;
+  padding: 5px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+ .number-in-bracket{
+  color: rgb(78, 78, 78);
+  font-size: small;
+  
+ }
+
+ .Students-are-viewing6 .cancelled-number{
+  text-decoration: line-through;
+  color:rgba(105, 102, 102, 0.986);
+  }
+
+  .discount-price{
+    font-weight: 800;
+  }
+
+
+    #design{
+      display: inline-block;
+      width: 295px;
+      margin: 0 25px 20px 0;
+    }
+
+  .img-design{
+  border: none;
+  background-color:whitesmoke;
+  border-color: grey;
+  height: 300px;
+  object-fit: contain;
+
+  }
+
+  #design p{
+    font-weight: bolder;
+  }

@@ -1,0 +1,142 @@
+.body14{
+  margin: 20px;
+}
+
+.body14 h1{
+  font-size: 34px;
+  
+}
+
+.body14 #choose{
+  font-family: "Calibri light";
+  font-size: 3dvh;
+}
+
+.body14  ul{
+  list-style: none;
+  display:flex;
+  flex-direction: row;
+  width: 60%;
+  justify-content: space-between;
+  padding-left: 0;
+  font-size: small;
+}
+
+.body14  ul button{
+  text-decoration: none;
+  color: grey;
+  display: inline-block;
+  border: none;
+  background-color: white;
+  font-weight: 1000;
+  font-size: small;
+}
+
+.body14  ul button:hover{
+  color: black;
+}
+
+.body14 .expand{
+  font-family: Arial, Helvetica, sans-serif;
+  border: solid;
+  border-width: 0.5px;
+  border-color: rgb(228, 227, 227);
+  padding: 12px 24px;
+}
+
+.body14 #take{
+  max-width: 70%;
+  font-family: "Calibri light";
+  font-size:large;
+}
+
+.body14 #explorepython{
+  padding: 10px;
+  background-color: white;
+  border-width: 1px;
+  font-weight: 800;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.body14 .several-lessons{
+  display: flex;
+  flex-direction: row;
+  padding-left: 0;
+  padding-right: 50%;
+  margin-top: 40px;
+}
+
+
+
+.body14 #python-lessons{
+  margin-right: 30px;
+  width: 250px;
+
+}
+
+.body14 #python-lessons img{
+  height: 50px;
+  
+}
+
+.body14 .div-img{
+  border: solid;
+  background-color: black;
+  border-color: grey;
+  height: 120px;
+}
+
+.body14 h4{
+  margin-bottom: 7px;
+ }
+
+ .body14 .teacher{
+  color: rgb(78, 78, 78);
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: small;
+ }
+
+ .body14 .rating {
+  color: rgb(231, 159, 4);
+  margin-top: 0;
+  margin-bottom: 7px;
+ }
+
+ .body14 .number-b4-stars{
+  font-weight: 700;
+  color: rgb(196, 88, 0);
+
+ }
+
+ .body14 .price{
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 15px;
+}
+
+
+.body14 .bestseller{
+  cursor: pointer;
+  color: rgb(34, 34, 34);
+  font-weight: 600;
+  background-color: rgb(236, 236, 158);
+  border: none;
+  padding: 5px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.body14 .number-in-bracket{
+  color: rgb(78, 78, 78);
+  font-size: small;
+  
+ }
+
+ .body14 .cancelled-number{
+  text-decoration: line-through;
+  color:rgb(116, 115, 115);
+  }
+
+  .body14 .discount-price{
+    font-weight: 800;
+  }

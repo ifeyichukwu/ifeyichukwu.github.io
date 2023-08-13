@@ -1,0 +1,28 @@
+#Trustedbyover8 .logos{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+#Trustedbyover8{
+  background-color: beige;
+}
+
+#Trustedbyover8{
+  background-color: white;
+  padding: 3dvi;
+}
+
+#Trustedbyover8 .trustedby, .leading{
+  text-align: center;
+  height: 11px;
+}
+
+#Trustedbyover8 .trustedby{
+  font-size: 2dvi;
+}
+
+#Trustedbyover8 .leading{
+  margin-bottom: 10px;
+}

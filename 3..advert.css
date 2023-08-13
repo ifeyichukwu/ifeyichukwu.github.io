@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  background-color: beige;  
+}
+
+.image-container{
+  position: relative;
+  display: inline-block;
+}
+
+ .advert-text{
+  position: absolute;
+  top: 30%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+  color: black;
+  background-color: white;
+  width: 380px;
+  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  border: none;
+  display: inline-block;
+}
+
+ #advert-text1{
+  background-color: white;
+  font-size: 35px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder;
+  line-height: 40px;
+  display: inline-block;
+  
+}
+
+.advert-text #advert-text2{
+  background-color: white;
+  font-size: 15px;
+  line-height: 20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: inline-block;
+}

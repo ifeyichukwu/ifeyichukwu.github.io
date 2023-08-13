@@ -1,0 +1,40 @@
+#thankstoudemy9 .weight {
+  font-weight: 300px;
+}
+
+
+#thankstoudemy9 #thankstoudemy {
+  margin: 42px 24px 9px 247px;
+  height: auto;
+  width: 800px;
+  background-color: white;
+  border: solid;
+  border-width: 1px;
+  border-color: rgb(209, 208, 208);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#thankstoudemy9 .thanks-left {
+  width: 350px;
+}
+
+#thankstoudemy9 .principalspicture {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  border: thin;
+}
+
+#thankstoudemy9 .view, .read {
+  text-align: center;
+  color: royalblue;
+  font-weight: bolder;
+}
+
+#thankstoudemy9 .read {
+  text-align: left;
+  text-decoration: underline;
+}

@@ -1,0 +1,63 @@
+#upskill{
+  margin: 30px 30px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#upskill .upskill{
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 900px;
+  margin-bottom: 30px;
+}
+
+#upskill .become{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  width: 900px;
+  margin-top: 30px;
+}
+
+#upskill .upskill-left{
+  width: 400px;
+  }
+  
+  #upskill .become-right{
+width: 400px;
+}
+
+#upskill .get-udemy-business, .start-teaching-today{
+  padding: 10px;
+  color: white;
+  background-color: rgb(49, 49, 49);
+  transition-duration: background-color 0.15s;
+}
+
+#upskill .get-udemy-business:hover{
+  cursor: pointer;
+  background-color: black;
+}
+
+#upskill .start-teaching-today:hover{
+  cursor: cell;
+  background-color: black;
+}
+
+#upskill .learn-more-of-udemy-business{
+  padding: 10px;
+  color:black ;
+  background-color:white ;
+  transition-duration: 0.3s;
+
+}
+
+#upskill .learn-more-of-udemy-business:hover{
+  cursor: grab;
+  background-color: azure;
+}
+
